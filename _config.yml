@@ -14,7 +14,7 @@ timezone: Africa/Casablanca
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: MO72 AN # the main title
+title: MO72 # the main title
 
 tagline: Content focusing on cybersecurity, networking, labs, and related topics! # it will display as the sub-title
 
