@@ -1,0 +1,2 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QA protocol for authentication\nInvolve a trusted 3rd-party\nUses symetric-key\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QA protocol for authentication\nInvolve a trusted 3rd-party\nUses symetric-key cryptographie\\E$"}
