@@ -23,7 +23,7 @@ NetBIOS (Network Basic Input/Output System) is a network service that enables ap
 
 More about NetBIOS here : [https://www.techtarget.com/searchnetworking/definition/NetBIOS](https://www.techtarget.com/searchnetworking/definition/NetBIOS)
 
-## LLMNR Poisoning :
+# LLMNR Poisoning :
 
 This type of attack occurs when there's a failure in DNS resolution, often triggered by a typo in the resource name or a request for a resource that doesn't exist. In such situations, the victim's machine sends out a multicast message in search of information about the desired resource. Capitalizing on this opportunity, the attacker intercepts the message and masquerades as the requested resource or service. Through this ruse, they can capture the user's username and password, transmitted either in plain text or encoded in NTLMv1 or NTLMv2 format.
 
